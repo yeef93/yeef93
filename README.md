@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yeef93
 - 👀 I’m interested in testing, automation, proggramming
-- 🌱 I’m currently learning C#, PHP
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C#, PHP, Java, Javascript, React, Next JS
 - 📫 How to reach me yunindafaranika@gmail.com
 
 <!---
